@@ -1,1 +1,1 @@
-# andriiblok.newsite.github.io
+# andriiblok.github.io
